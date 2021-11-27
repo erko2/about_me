@@ -1,4 +1,4 @@
-- - 👋 Hi there. 
-- - Thanks for 👀 my profile. Feel free to navigate through my repositories and grab what you need.  
-- - 🌱 Currently working with NodeJS and Microservices, mainly linux servers and other cool DevOps stuff.
-- - 📫 How to reach me: kodeval [at] protonmail dot com, or see https://erko.digital/
+-  👋 Hi there. 
+-  Thanks for 👀 my profile. Feel free to navigate through my repositories and grab what you need.  
+-  🌱 Currently working with NodeJS and Microservices, mainly linux servers and other cool DevOps stuff.
+-  📫 How to reach me: kodeval [at] protonmail dot com, or see https://erko.digital/
